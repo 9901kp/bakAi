@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24"
+        android:iconTint="@color/white"/>
+    <item
+        android:id="@+id/transfer"
+        android:title="Transfer"
+        android:icon="@drawable/baseline_send_24"
+        android:iconTint="@color/white" />
+
+    <item
+        android:id="@+id/services"
+        android:title="Services"
+        android:icon="@drawable/baseline_miscellaneous_services_24"
+        android:iconTint="@color/white"/>
+    <item
+        android:id="@+id/history"
+        android:title="History"
+        android:icon="@drawable/baseline_access_time_24"
+        android:iconTint="@color/white"/>
+</menu>
